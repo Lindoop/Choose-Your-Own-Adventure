@@ -1,5 +1,5 @@
 # Choose-Your-Own-Adventure
-A text-based adventure game that was done in Grade 12 Computer Science with the Java language
+A text-based adventure game that was done in Grade 10 Computer Science with the Java language
 
 First, you pick your "class": Noble, Wizard, Witch, Ranger, Peasant, and Fairy. Each class has their stats and what they excel at (e.g. Witches have higher damage, but less health, while Rangers deal lower damage, but have more health). Each class also has their own stories to embark on. 
 
